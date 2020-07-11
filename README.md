@@ -5,6 +5,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/ahamed-safnaj)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
 
 
-⚡ Final Year Undergraduate at SLIIT
+⚡ Final Year Undergraduate at SLIIT <br/>
 ⚡ Software Engineering Intern at Virtusa
 
