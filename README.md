@@ -9,6 +9,6 @@
 
 
 🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
-⚡ Final Year Undergraduate at SLIIT <br/>
-⚡ Software Engineering Intern at Virtusa
+⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
+⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/)
 
