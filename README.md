@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=internet&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
 
 
-🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/)
+🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
 ⚡ Final Year Undergraduate at SLIIT <br/>
 ⚡ Software Engineering Intern at Virtusa
 
