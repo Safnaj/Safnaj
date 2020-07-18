@@ -13,3 +13,5 @@
 ⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/) <br/>
 ⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
 ⚡ Full-Stack Developer <br/>
+
+Skills :
