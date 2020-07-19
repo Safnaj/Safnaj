@@ -8,12 +8,13 @@
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=internet&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
 
 ![Safnaj's github stats](https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true)
-
+<!--
 🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
 ⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
 ⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/) <br/>
 ⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
 ⚡ Full-Stack Developer <br/>
+-->
 
 ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
