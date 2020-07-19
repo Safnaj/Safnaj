@@ -16,7 +16,7 @@
 ⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss)
 ⚡ Full-Stack Developer
     </td>
-    <td>![Safnaj's github stats](https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true)</td>
+    [Safnaj's github stats](https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true)
   </tr>
 </table>
 
