@@ -9,6 +9,13 @@
 
 | ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true)" width = "300px">  |  <img src ="https://source.unsplash.com/400x400/?sydney,landscape,australia" width = "200px"> |
 
+|---|---|
+| ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true) width = "300px">  |  🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
+⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
+⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/) <br/>
+⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
+⚡ Full-Stack Developer <br/>
+ width = "200px"> |
 
 
 🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
