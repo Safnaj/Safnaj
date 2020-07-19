@@ -15,4 +15,21 @@
 ⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
 ⚡ Full-Stack Developer <br/>
 
+<div class="col2">
+```{r}
+head(mtcars)
+tail(mtcars)
+```
+</div>
+
 Skills :
+
+
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  } 
+</style>
