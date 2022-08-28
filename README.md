@@ -10,6 +10,13 @@
 ![Safnaj's github stats](https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safnaj&layout=compact)
 
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safnaj&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+---
+
 <!--
 🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
 ⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
