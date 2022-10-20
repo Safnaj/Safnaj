@@ -46,3 +46,8 @@
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+---
+
+### Stackoverflow Stats : <br/>
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9752928&layout=compact)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
