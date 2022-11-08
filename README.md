@@ -52,4 +52,4 @@
 ### Stackoverflow Stats : <br/>
 <!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9752928&layout=compact)](https://stackoverflow.com/users/9752928/ahamed-safnaj) -->
 
-<a href="https://stackoverflow.com/users/9752928/ahamed-safnaj"><img src="https://stackoverflow.com/users/flair/9752928.png?theme=light" width="240" height="70"></a>
+<a href="https://stackoverflow.com/users/9752928/ahamed-safnaj"><img src="https://stackoverflow.com/users/flair/9752928.png?theme=light" width="220" height="70"></a>
