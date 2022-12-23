@@ -1,11 +1,11 @@
 ### Hi there, I'm Safnaj 👋
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamSafnaj/)](https://twitter.com/iamSafnaj/)
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
-[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahamed.safnaj)](https://www.facebook.com/ahamed.safnaj)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahamed-safnaj/)](https://www.linkedin.com/in/ahamed-safnaj/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/ahamed-safnaj)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
-[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
+[![GitHub Safnaj](https://img.shields.io/github/followers/Safnaj?label=follow&style=social)](https://github.com/Safnaj)
+[![Twitter: iamSafnaj](https://img.shields.io/twitter/follow/iamSafnaj?style=social)](https://twitter.com/iamSafnaj)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC3dG272zeDqzbqK6a3Y7SLA?label=YouTube&style=social)]([https://github.com/Safnaj](https://www.youtube.com/channel/UC3dG272zeDqzbqK6a3Y7SLA))
+[![LinkedIn: ahamed-safnaj](https://img.shields.io/badge/-AhamedSafnaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahamed-safnaj/)](https://www.linkedin.com/in/ahamed-safnaj/)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?&color=red&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
+[![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
 
 ---
 <p float="left">
