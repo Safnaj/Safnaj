@@ -6,6 +6,7 @@
 [![LinkedIn: ahamed-safnaj](https://img.shields.io/badge/-AhamedSafnaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahamed-safnaj/)](https://www.linkedin.com/in/ahamed-safnaj/)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&color=red&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
 [![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
+<img src="https://komarev.com/ghpvc/?username=Safnaj&label=Profile%20views&color=blue&style=flat-square" alt="Safnaj" />
 
 ---
 <p float="left">
