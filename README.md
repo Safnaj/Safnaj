@@ -53,5 +53,6 @@
 
 ### Stackoverflow Stats : <br/>
 <!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9752928&layout=compact)](https://stackoverflow.com/users/9752928/ahamed-safnaj) -->
+[![user:9752928's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9752928?theme=default&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
-<a href="https://stackoverflow.com/users/9752928/ahamed-safnaj"><img src="https://stackoverflow.com/users/flair/9752928.png?theme=light" width="220" height="70"></a>
+<!-- <a href="https://stackoverflow.com/users/9752928/ahamed-safnaj"><img src="https://stackoverflow.com/users/flair/9752928.png?theme=light" width="220" height="70"></a> -->
