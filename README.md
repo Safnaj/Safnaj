@@ -54,6 +54,17 @@
 ### Stackoverflow Stats : <br/>
 <!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9752928&layout=compact)](https://stackoverflow.com/users/9752928/ahamed-safnaj) -->
 <!-- [![user:9752928's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9752928?theme=default&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile) -->
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9752928)
 
-<!-- <a href="https://stackoverflow.com/users/9752928/ahamed-safnaj"><img src="https://stackoverflow.com/users/flair/9752928.png?theme=light" width="220" height="70"></a> -->
+<table>
+  <tr>
+    <td>
+        <img src="https://github-stackoverflow-readme.vercel.app/?userId=9752928" alt="Stack Overflow Stats" />
+    </td>
+    <td>
+        <h3>Spotify</h3>
+        <a href="https://github.com/kittinan/spotify-github-profile">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=313xsfsepi6zm2a5o6lvr3polfmy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Stats" />
+        </a>
+    </td>
+  </tr>
+</table>
