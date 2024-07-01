@@ -61,7 +61,7 @@
     </td>
     <td>
         <a href="https://github.com/kittinan/spotify-github-profile">
-            <img src="https://spotify-github-profile.vercel.app/api/view?uid=313xsfsepi6zm2a5o6lvr3polfmy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Stats" />
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313xsfsepi6zm2a5o6lvr3polfmy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Stats" />
         </a>
     </td>
   </tr>
