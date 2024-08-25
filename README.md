@@ -9,21 +9,19 @@
 <img src="https://komarev.com/ghpvc/?username=Safnaj&label=Profile%20views&color=blue&style=flat-square" alt="Safnaj" />
 
 ---
+<!--START_SECTION:badges-->
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/14a47b5e-e52f-4f7d-8ad4-a11dc1c3b349 "GitHub Actions")
+[![Contributor - KCD Sri Lanka 2023](https://images.credly.com/size/110x110/images/c3afdbc5-e68b-4e65-a41a-cd784306dac0/image.png)](http://www.credly.com/badges/58deb4de-38ef-4edd-ae61-e22acb550f97 "Contributor - KCD Sri Lanka 2023")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/4b96a332-4cf3-4c27-8547-4fba02dd0835 "Microsoft Certified: Azure Fundamentals")
+<!--END_SECTION:badges-->
+
+---
 <p float="left">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Safnaj&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 
 ---
-<!--
-🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/Safnaj/) <br/>
-⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
-⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/) <br/>
-⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
-⚡ Full-Stack Developer <br/> -->
-
-
-### Skills : <br/>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -66,9 +64,3 @@
     </td>
   </tr>
 </table>
-
-<!--START_SECTION:badges-->
-[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/14a47b5e-e52f-4f7d-8ad4-a11dc1c3b349 "GitHub Actions")
-[![Contributor - KCD Sri Lanka 2023](https://images.credly.com/size/110x110/images/c3afdbc5-e68b-4e65-a41a-cd784306dac0/image.png)](http://www.credly.com/badges/58deb4de-38ef-4edd-ae61-e22acb550f97 "Contributor - KCD Sri Lanka 2023")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/4b96a332-4cf3-4c27-8547-4fba02dd0835 "Microsoft Certified: Azure Fundamentals")
-<!--END_SECTION:badges-->
