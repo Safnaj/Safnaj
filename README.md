@@ -11,7 +11,7 @@
 ---
 <!--START_SECTION:badges-->
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/14a47b5e-e52f-4f7d-8ad4-a11dc1c3b349 "GitHub Actions")
-[![Contributor - KCD Sri Lanka 2023](https://images.credly.com/size/110x110/images/c3afdbc5-e68b-4e65-a41a-cd784306dac0/image.png)](http://www.credly.com/badges/58deb4de-38ef-4edd-ae61-e22acb550f97 "Contributor - KCD Sri Lanka 2023")
+<!-- [![Contributor - KCD Sri Lanka 2023](https://images.credly.com/size/110x110/images/c3afdbc5-e68b-4e65-a41a-cd784306dac0/image.png)](http://www.credly.com/badges/58deb4de-38ef-4edd-ae61-e22acb550f97 "Contributor - KCD Sri Lanka 2023")-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/4b96a332-4cf3-4c27-8547-4fba02dd0835 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
