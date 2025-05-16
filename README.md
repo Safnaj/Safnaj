@@ -11,7 +11,6 @@
 ---
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-
 ---
 <p float="left">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Safnaj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
