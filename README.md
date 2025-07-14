@@ -10,6 +10,11 @@
 
 ---
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/e5c12cd2-8d6e-4fa9-9279-fc9e7fa6cde0" title="GitHub Advanced Security"><img src="https://images.credly.com/size/80x80/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" alt="GitHub Advanced Security" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/21d3335b-ae48-442e-b234-912f2b48ebf6" title="AWS Knowledge: Serverless"><img src="https://images.credly.com/size/80x80/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/14a47b5e-e52f-4f7d-8ad4-a11dc1c3b349" title="GitHub Actions"><img src="https://images.credly.com/size/80x80/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/58deb4de-38ef-4edd-ae61-e22acb550f97" title="Contributor - KCD Sri Lanka 2023"><img src="https://images.credly.com/size/80x80/images/c3afdbc5-e68b-4e65-a41a-cd784306dac0/image.png" alt="Contributor - KCD Sri Lanka 2023" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/4b96a332-4cf3-4c27-8547-4fba02dd0835" title="Microsoft Certified: Azure Fundamentals"><img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 ---
 <p float="left">
