@@ -1,4 +1,6 @@
-### Hi there, I'm Safnaj 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20there,%20I%27m%20Safnaj%20%F0%9F%91%8B&textBg=false&fontSize=40&fontAlignY=39&descSize=18&descAlignY=52&animation=fadeIn&reversal=false&section=header" width="100%" />
+</p>
 
 [![GitHub Safnaj](https://img.shields.io/github/followers/Safnaj?label=follow&style=social)](https://github.com/Safnaj)
 [![Twitter: iamSafnaj](https://img.shields.io/twitter/follow/iamSafnaj?style=social)](https://twitter.com/iamSafnaj)
