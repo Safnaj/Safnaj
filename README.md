@@ -12,6 +12,7 @@
 
 ---
 <!--START_SECTION:badges-->
+[![Microsoft Pro Badge: GitHub Copilot - Proficient](https://images.credly.com/size/80x80/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob)](https://www.credly.com/badges/1b0de829-406a-4701-ab33-4c95e2c0cf9b)
 [![2026-2027 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob)](https://www.credly.com/badges/4eec9867-ae00-4d0c-b5cb-35703a5226a6)
 [![GitHub Advanced Security](https://images.credly.com/size/80x80/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](https://www.credly.com/badges/e5c12cd2-8d6e-4fa9-9279-fc9e7fa6cde0)
 [![AWS Knowledge: Serverless - Training Badge](https://images.credly.com/size/80x80/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob)](https://www.credly.com/badges/21d3335b-ae48-442e-b234-912f2b48ebf6)
